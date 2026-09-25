@@ -2,7 +2,7 @@
 <h3 align="center">Building fast, scalable web applications & high-converting digital products.</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="USERNAME" />
+  <img src="https://komarev.com/ghpvc/?username=b1laldev&label=Profile%20views&color=0e75b6&style=flat" alt="USERNAME" />
 </p>
 
 ---
@@ -47,7 +47,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" alt="USERNAME's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=b1laldev&show_icons=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" alt="USERNAME's GitHub stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F" alt="USERNAME's Top Languages" width="48%" />
 </div>
 
